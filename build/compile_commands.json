@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Master_SIM/build",
+  "command": "C:\\msys64\\mingw64\\bin\\g++.exe -g -o CMakeFiles\\master_sim.dir\\main.cpp.obj -c C:\\Master_SIM\\main.cpp",
+  "file": "C:\\Master_SIM\\main.cpp",
+  "output": "CMakeFiles\\master_sim.dir\\main.cpp.obj"
+}
+]
